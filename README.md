@@ -2,7 +2,7 @@ Simple Calculator made in jquery
 This was a simple calculator with the ability to add, subtract, divide and multiply.
 
 ![pic](pic.jpg)
-link to project:
+link to project: https://rakimdevcraig.github.io/calculatorjQuery/
 
 How It's Made:
 
